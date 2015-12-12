@@ -26,14 +26,4 @@
     <segundo>Caracoles a la parrilla</segundo>
     <postre>Chocale con leche de soja</postre>
   </menu>
-  <menu>
-    <alergenos>
-      <crustaceos/>
-      <moluscos/>
-      <soja/>
-    </alergenos>
-    <primero>Marisco variado 2</primero>
-    <segundo>Caracoles a la parrilla 2</segundo>
-    <postre>Chocale con leche de soja 2</postre>
-  </menu>
 </restaurante>
