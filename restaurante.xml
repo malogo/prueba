@@ -1,16 +1,17 @@
-  <1>
+<restaurante>  
+  <menu>
     <primero>Sopa</primero>
     <segundo>Carne</segundo>
     <postre>Postre</plato>
-  </1>
-  <1>
+  </menu>
+  <menu>
     <primero>Ensalada</primero>
     <segundo>Pasta</segundo>
     <postre>Postre</postre>
-  </1>
-  <1>
+  </menu>
+  <menu>
     <primero>jsdhsg</primero>
     <segundo>ferhsreh</segundo>
     <postre>dsjd</postre>
-  </1>
-
+  </menu>
+</restaurante>
