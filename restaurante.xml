@@ -12,7 +12,7 @@
     <alergenos>
       <libre/>
     </alergenos>
-    <primero>Ensalada</primero>
+    <primero>Ensalada1</primero>
     <segundo>Pasta a la boloñesa</segundo>
     <postre>Wuntum</postre>
   </menu>
@@ -22,7 +22,7 @@
       <moluscos/>
       <soja/>
     </alergenos>
-    <primero>Marisco variado</primero>
+    <primero>Marisco variado2</primero>
     <segundo>Caracoles a la parrilla</segundo>
     <postre>Chocale con leche de soja</postre>
   </menu>
