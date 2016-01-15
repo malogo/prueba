@@ -4,7 +4,7 @@
       <gluten/>
       <pescado/>
     </alergenos>
-    <primero>Sop vieiras</primero>
+    <primero>Sopa de vieiras</primero>
     <segundo>Carne a la parrilla</segundo>
     <postre>Tarta de quesos</postre>
   </menu>
@@ -26,23 +26,4 @@
     <segundo>Caracoles a la parrilla</segundo>
     <postre>Chocale con leche de soja</postre>
   </menu>
-  <menu>
-    <alergenos>
-      <crustaceos/>
-      <moluscos/>
-      <soja/>
-    </alergenos>
-    <primero>Marisco vaado</primero>
-    <segundo>Caracoles a  parrilla</segundo>
-    <postre>Chocale con lechde soja</postre>
-  </menu><menu>
-    <alergenos>
-      <crustaceos/>
-      <moluscos/>
-      <soja/>
-    </alergenos>
-    <primero>Marisco vari</primero>
-    <segundo>Caracoles a la parrla</segundo>
-    <postre>Chocale con leche dsoja</postre>
-  </menu>
-</restaurante>
+  
